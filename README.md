@@ -1,41 +1,23 @@
-BIM VR Studio
-Professional BIM viewer with virtual-reality walkthroughs for Windows
-عارض BIM احترافي مع جولات واقع افتراضي لنظام Windows
 
-Download installer   Download portable
+Asfan Architect VR
+Architectural design with live 3D and virtual reality for Windows
+تصميم معماري مع عرض ثلاثي الأبعاد مباشر وواقع افتراضي لنظام Windows
+
+Download
 
 Download · التحميل
-Link
-Installer (recommended)	https://github.com/OWNER/BIM-VR-Studio-Download/releases/latest/download/BIM-VR-Studio-Setup.exe
-Portable (no installation)	https://github.com/OWNER/BIM-VR-Studio-Download/releases/latest/download/BIM-VR-Studio-Portable.exe
-All versions	https://github.com/OWNER/BIM-VR-Studio-Download/releases
-Requirements: Windows 10/11 64-bit, DirectX 11 / OpenGL 3.3 graphics. VR: a PC headset with an OpenXR runtime or a standalone headset (Meta Quest, Pico) on the same Wi-Fi.
+Open the latest release and download Asfan-Architect-VR-Setup-x.y.z.exe.
 
-Features · المزايا
-Opens IFC 2x3 / IFC4 / IFC4x3, IFCZIP, glTF/GLB, OBJ, STL, FBX, DAE
+افتح آخر إصدار وحمّل الملف Asfan-Architect-VR-Setup-x.y.z.exe.
 
-Spatial tree, categories, storeys, property sets, quantities, materials
+Requirements · المتطلبات: Windows 10/11 64-bit. VR: a PC headset (Meta Quest Link / Air Link, SteamVR) or a Meta Quest on the same Wi-Fi.
 
-Orbit and first-person walk navigation, measurements, section planes, notes
+License · الترخيص
+Asfan Architect VR is licensed by monthly or yearly subscription; a license key is required to start the program. To buy or renew: info@asfanco.com. Enter your key in the window that opens at first start, or later under Help → License and Activation.
 
-Virtual reality on PC headsets and VR Link for Meta Quest / Pico
+البرنامج مرخّص باشتراك شهري أو سنوي، ويلزم مفتاح ترخيص لتشغيله. للشراء أو التجديد: info@asfanco.com. أدخل المفتاح في النافذة التي تظهر عند أول تشغيل، أو لاحقاً من مساعدة ← الترخيص والتفعيل.
 
-Arabic and English interface
+Updates · التحديثات
+The installed program updates itself: new versions download in the background and install when you restart.
 
-يفتح ملفات IFC وglTF وOBJ وSTL وFBX وDAE
-
-شجرة المشروع والطوابق ومجموعات الخصائص والكميات
-
-تجوّل بمنظور شخصي، قياسات، مستويات قطع، ملاحظات
-
-واقع افتراضي على نظارات الحاسوب ورابط VR لنظارات Meta Quest وPico
-
-واجهة عربية وإنجليزية
-
-Trial and licensing · التجربة والترخيص
-The download is a free 14-day trial with all features. To buy a license contact info@asfanco.com. Enter your key under Help → License & Activation.
-
-التحميل نسخة تجريبية مجانية لمدة 14 يومًا بكل الميزات. لشراء ترخيص تواصل معنا على info@asfanco.com ثم أدخل المفتاح من قائمة Help ← License & Activation.
-
-Support · الدعم
-info@asfanco.com
+البرنامج المثبّت يحدّث نفسه تلقائياً: تُنزَّل الإصدارات الجديدة في الخلفية وتُثبَّت عند إعادة التشغيل.
